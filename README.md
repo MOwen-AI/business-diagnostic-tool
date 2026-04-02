@@ -1,1 +1,0 @@
-# business-diagnostic-tool
